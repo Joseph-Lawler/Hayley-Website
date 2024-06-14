@@ -12,4 +12,4 @@ ToDo:
   - Share bitwarden
   - Share figma
 
-[Local Setup](https://github.com/Joseph-Lawler/Hayley-Website/blob/main/README.md)
+[Local Setup](https://github.com/Joseph-Lawler/Hayley-Website/blob/main/LOCAL_SETUP.md)
