@@ -1,7 +1,6 @@
 ToDo:
 - Local Env Setup:
   - Terraform setup
-  - AWS cli
   - Install bun
 - Infra:
   - Create ECS infra diagram
@@ -11,5 +10,7 @@ ToDo:
   - Email
   - Share bitwarden
   - Share figma
+- Joe Setup:
+  - Key bindings for zed
 
 [Local Setup](https://github.com/Joseph-Lawler/Hayley-Website/blob/main/LOCAL_SETUP.md)
