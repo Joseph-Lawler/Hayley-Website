@@ -1,7 +1,5 @@
 ToDo:
 - Local Env Setup:
-  - Terraform setup
-  - Install bun
 - Infra:
   - Create ECS infra diagram
 - Design:
